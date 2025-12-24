@@ -552,7 +552,6 @@ const VegasRoadTrip = () => {
                 icon={Star}
               />
             </div>
-            </div>
 
             {/* Dinner */}
             <div className="mb-8">
